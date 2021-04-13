@@ -1,6 +1,6 @@
 {
   "name": "meru-portfolio",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -48,4 +48,7 @@
     "> 1%",
     "last 2 versions"
   ]
-}
+  "resolutions": {
+    "ajv": "6.8.1"
+  }
+  }
