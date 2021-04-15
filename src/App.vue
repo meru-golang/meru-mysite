@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Header id="header"></Header>
-    <div class="res"><h1 class="res-title" @click="clickSmoothScroll('#app')">めるのぽーとふぉりお</h1></div>
+    <div class="res"><h1 class="res-title" @click="clickSmoothScroll('#app')">meru's Portfolio</h1></div>
     <div class="nav-res">
         <a href="#" class="link-content" @click="clickSmoothScroll('#app')">
           <font-awesome-icon icon="image" class="nav-icon"/>
@@ -123,11 +123,11 @@ export default {
 
 .res{
   display: none;
-  background-color: #F3A1B2;
+  background-color: #ADD8E6;
 }
 
 .res-title{
-  background-color:#F3A1B2;
+  background-color: #ADD8E6;
   padding: 10px;
   margin: 0;
   color: whitesmoke;
@@ -203,7 +203,7 @@ export default {
 
   .res{
     display: contents;
-    background-color: #F3A1B2;
+    background-color: #ADD8E6;
   }
 
 
@@ -212,7 +212,7 @@ export default {
   position: -webkit-sticky;
   top: 0;
   z-index: 1;
-  background-color: #F3A1B2;
+  background-color: #ADD8E6;
   padding: 10px;
   display: flex;
   flex-direction: row;
