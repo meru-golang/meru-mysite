@@ -12,8 +12,7 @@
               <a href="https://twitter.com/meru_golang" class="card-link">Go to link</a>
             </div>
           </li>
-        </ul>
-        <ul class="links">
+
           <li class="card">
             <img class="card-img" src="../assets/links/instagram.jpg" alt="">
             <div class="card-content">
@@ -23,8 +22,7 @@
               <a href="https://instagram.com/meru_golang/" class="card-link">Go to link</a>
             </div>
           </li>
-        </ul>
-        <ul class="links">
+
           <li class="card">
             <img class="card-img" src="../assets/links/mstdn.jpg" alt="">
             <div class="card-content">
@@ -34,8 +32,7 @@
               <a href="https://mstdn.maud.io/@meru" class="card-link">Go to link</a>
             </div>
           </li>
-        </ul>
-        <ul class="links">
+
           <li class="card">
             <img class="card-img" src="../assets/links/forrio.jpg" alt="">
             <div class="card-content">
@@ -45,8 +42,7 @@
               <a href="https://www.foriio.com/meru-golang" class="card-link">Go to link</a>
             </div>
           </li>
-        </ul>
-        <ul class="links">
+
           <li class="card">
             <img class="card-img" src="../assets/links/meru-mstdn.jpg" alt="">
             <div class="card-content">
@@ -54,6 +50,16 @@
               <p class="card-text">めるのmasotodonインスタンスです.</p>
               <br>
               <a href="https://meru.work/" class="card-link">Go to link</a>
+            </div>
+          </li>
+
+          <li class="card">
+            <img class="card-img" src="../assets/links/linktree.jpg" alt="">
+            <div class="card-content">
+              <h1 class="card-title jp">Linktree</h1>
+              <p class="card-text">めるのLinktreeです.</p>
+              <br>
+              <a href="https://linktr.ee/meru_golang" class="card-link">Go to link</a>
             </div>
           </li>
         </ul>
@@ -71,11 +77,12 @@
   padding-left: 15%;
   padding-right: 15%;
 }
-
 .jp{
   font-weight: 100;
 }
-
+.card-lang{
+  font-weight: 500;
+}
 .card {
   display: inline-block;
   margin: 30px 60px;
@@ -104,7 +111,6 @@
   font-size: 14px;
   line-height: 1.5;
 }
-
 .card-link{
   border: 2px solid #00aaff;
   text-decoration: none;
@@ -119,29 +125,31 @@
   background-color: #00aaff;
   color: white;
 }
-
-
-/*.link-content{
+.github-link{
+  border-color: #171515;
+  color: #171515;
+}
+.github-link:hover {
+  background-color: #171515;
+  color: white;
+}
+/*.work-content{
 	width: 350px;
 	padding: 10px;
 	margin: 30px 60px;
   display: inline-block;
 }
-
-.link-content:hover{
+.work-content:hover{
   background-color: rgba(50, 50, 100, 0.3);
 }
-
-.links-image{
+.works-image{
     width: 100%;
 }*/
-
 @media screen and (max-width: 768px){
   .links{
       padding-left: 1%;
       padding-right: 1%;
   }
-
   .card-link{
     border: 2px solid #00aaff;
     background-color: #00aaff;
@@ -150,17 +158,18 @@
     margin: 0 10px;
     padding: 5px 10px;
     border-radius: 5px;
-
     font-weight: bold;
   }
+  .github-link{
+    background-color: #171515;
+    border-color: #171515;
+  }
 }
-
 @media screen and (max-width: 550px){
   .card{
     width: 280px;
     margin: 30px 0;
   }
-
   
 }
 </style>
