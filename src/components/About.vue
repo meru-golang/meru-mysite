@@ -12,9 +12,8 @@
                 <h2><font-awesome-icon icon="birthday-cake" class="icon"/> Birthday</h2>
                 <p class="text">2006-03-03</p>
               </div>
-            </div>
-            
 
+            </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
               どうも、めるです。<br>
@@ -32,7 +31,6 @@
     display:inline-flex;
     padding-left: 5%;
     padding-right: 5%;
-    
 }
 
 .resent{
@@ -46,7 +44,6 @@
 .text{
   font-weight: 300;
 }
-
 
 @media screen and (max-width: 768px){
 	.about {

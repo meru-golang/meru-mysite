@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import smoothScroll from 'vue-smoothscroll'
 import VueTyperPlugin from 'vue-typer'
+
 Vue.use(smoothScroll)
 Vue.use(VueTyperPlugin)
 

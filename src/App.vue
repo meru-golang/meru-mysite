@@ -19,6 +19,10 @@
           <font-awesome-icon icon="link" class="nav-icon"/>
           <p class="comment">Links</p>
         </a>
+        <a href="#" class="link-content" @click="clickSmoothScroll('#favorites')">
+          <font-awesome-icon icon="heart" class="nav-icon"/>
+          <p class="comment">Favorites</p>
+        </a>
         <a href="#" class="link-content" @click="clickSmoothScroll('#contact')">
           <font-awesome-icon icon="handshake" class="nav-icon"/>
           <p class="comment">Contact</p>
@@ -46,6 +50,7 @@
     <About id="about"></About>
     <Skill id="skill"></Skill>
     <Links id="links"></Links>
+    <Favorites id="favorites"></Favorites>
     <Contact id="contact"></Contact>
 
     <Footer></Footer>
@@ -61,6 +66,7 @@ import Footer from './components/Footer.vue'
 import About from './components/About.vue'
 import Skill from './components/Skill.vue'
 import Links from './components/Links.vue'
+import Favorites from './components/Favorites.vue'
 import Contact from './components/Contact.vue'
 
 
@@ -75,6 +81,7 @@ export default {
     About,
     Skill,
     Links,
+    Favorites,
     Contact
   },
   methods:{
@@ -103,8 +110,7 @@ export default {
 
 #top{
   position: relative;
-  /*background-image: url(./assets/yoru2.jpg);*/
-  background-color:#F3A1B2;
+  background-image: url(./assets/back-img/back-img-blur.jpg);
   background-size: cover;
   height: 100vh;
 }
@@ -133,11 +139,9 @@ export default {
   color: whitesmoke;
 }
 
-.vue-typer .custom.char{
-  color: aliceblue;
+.vue-typer .custom.char.typed {
+  color: black;
 }
-
-
 
 .nav-res{
   display: none;
