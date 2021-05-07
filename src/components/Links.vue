@@ -24,16 +24,6 @@
           </li>
 
           <li class="card">
-            <img class="card-img" src="../assets/links/mstdn.jpg" alt="">
-            <div class="card-content">
-              <h1 class="card-title jp">Mastodon</h1>
-              <p class="card-text">めるのMastodonアカウントです.</p>
-              <br>
-              <a href="https://mstdn.maud.io/@meru" class="card-link">Go to link</a>
-            </div>
-          </li>
-
-          <li class="card">
             <img class="card-img" src="../assets/links/forrio.jpg" alt="">
             <div class="card-content">
               <h1 class="card-title jp">forrio</h1>
