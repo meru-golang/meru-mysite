@@ -22,8 +22,8 @@
               <a href="https://instagram.com/meru_golang/" class="card-link">Go to link</a>
             </div>
           </li>
-	  
-	  <li class="card">
+
+          <li class="card">
             <img class="card-img" src="../assets/links/mstdn.jpg" alt="">
             <div class="card-content">
               <h1 class="card-title jp">Mastodon</h1>
