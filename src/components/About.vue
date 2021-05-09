@@ -13,12 +13,17 @@
                 <p class="text">2006-03-03</p>
               </div>
 
+              <div class="me">
+                <h2><img src="../assets/tryhackme/tryhackme.svg" class="try-icon"/> TryHackMe</h2>
+                <img src="https://tryhackme-badges.s3.amazonaws.com/merugolang.png" alt="TryHackMe">
+              </div>
+
             </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
               どうも、めるです。<br>
               ほぼ毎日プログラミングをやっており、最近はゲームの解析やセキュリティ関係の事をしてます。<br>
-              趣味で作った物は公開しませんが、案件などは受けておりそこら辺にいると思います。<br>
+              作った物公開した事はありませんが、案件などは受けておりそこら辺にいると思います。<br>
               暇な日はオンゲキやSDVXなどの音ゲーをしてます。
             </p>
         </div>
@@ -43,6 +48,11 @@
 
 .text{
   font-weight: 300;
+}
+
+.try-icon{
+    height: 20px;
+    width: 20px;
 }
 
 @media screen and (max-width: 768px){
