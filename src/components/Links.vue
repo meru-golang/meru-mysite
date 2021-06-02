@@ -52,6 +52,16 @@
               <a href="https://linktr.ee/meru_golang" class="card-link">Go to link</a>
             </div>
           </li>
+          <li class="card">
+            <img class="card-img" src="../assets/links/Youtube-for-Vue.jpg" alt="">
+            <div class="card-content">
+              <h1 class="card-title jp">Youtube-for-Vue.js</h1>
+              <p class="card-text">Vue.jsで書いたYoutubeのクローンサイトです.</p>
+              <br>
+              <a href="https://meru.work" class="card-link">Go to link</a>
+            </div>
+          </li>
+
         </ul>
     </div>
 </template>
