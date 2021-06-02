@@ -21,10 +21,7 @@
             </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
-              どうも、めるです。<br>
-              ほぼ毎日プログラミングをやっており、最近はゲームの解析やセキュリティ関係の事をしてます。<br>
-              作った物公開した事はありませんが、案件などは受けておりそこら辺にいると思います。<br>
-              暇な日はオンゲキやSDVXなどの音ゲーをしてます。
+            特に書くことないです～
             </p>
         </div>
     </div>
