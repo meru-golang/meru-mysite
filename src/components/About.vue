@@ -22,8 +22,8 @@
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
             最近暑いですよね。<br>
-            そんな中高校に行くのだるいです。<br>
-            でも、Vtuberの可愛い子達におはようってリプしてるだけで幸せなので毎日頑張ってます。<br>
+	    おかげで物凄く疲れが溜まりますが<br>
+            Vtuberの可愛い子達におはようってリプしてるだけで幸せなので毎日頑張ってます。<br>
             </p>
         </div>
     </div>
