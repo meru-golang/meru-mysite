@@ -21,8 +21,9 @@
             </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
-            入学して1か月程度でやらかした学生です.<br>
-	    ぶっ飛んでる学生ですが、これでもぷろぐらま～なので囲ってください!!!
+            最近暑いですよね。<br>
+            高校に行くのだるいです。<br>
+            でも、Vtuberの可愛い子達におはようリプしてるだけで幸せなので毎日頑張ってます。<br>
             </p>
         </div>
     </div>
