@@ -10,7 +10,7 @@
 
               <div class="me">
                 <h2><font-awesome-icon icon="birthday-cake" class="icon"/> Birthday</h2>
-                <p class="text">2006-03-03</p>
+                <p class="text">3月3日</p>
               </div>
 
               <div class="me">
@@ -21,9 +21,7 @@
             </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
-            最近暑いですよね。<br>
-            高校に行くのだるいです。<br>
-            でも、Vtuberの可愛い子達におはようリプしてるだけで幸せなので毎日頑張ってます。<br>
+            最近VRChatを始めました！
             </p>
         </div>
     </div>

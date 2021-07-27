@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="header-inner">
-      <h1 class="title" @click="clickSmoothScroll('#app')">meru's Portfolio</h1>
+      <h1 class="title" @click="clickSmoothScroll('#app')">めるのほーむぺーじ！</h1>
       <Nav class="nav"></Nav>
     </div>
   </div>
@@ -33,7 +33,7 @@ export default{
 
 <style>
 .header{
-  background-color:#ADD8E6;
+  background-color:#fcc;
   position: sticky;
   top: 0;
   width: 100%;

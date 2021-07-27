@@ -1,17 +1,17 @@
 <template>
   <div class="footer">
-    <p class="title">&copy;meru_golang</p>
+    <p class="title-foo">&copy;meru_golang</p>
   </div>
 </template>
 
 <style>
 .footer{
   margin-top: 100px;
-    background-color: #ADD8E6;
+    background-color: #fcc;
 }
-.title{
+.title-foo{
     padding:20px;
-    color: whitesmoke;
+    color: black;
 }
 
 </style>

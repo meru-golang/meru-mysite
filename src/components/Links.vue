@@ -1,7 +1,6 @@
 <template>
     <div>
         <h1 class="content-title"><font-awesome-icon icon="link" class="icon"/> Links</h1>
-        
         <ul class="links">
           <li class="card">
             <img class="card-img" src="../assets/links/twitter.jpg" alt="">
@@ -22,46 +21,6 @@
               <a href="https://instagram.com/meru_golang/" class="card-link">Go to link</a>
             </div>
           </li>
-
-          <li class="card">
-            <img class="card-img" src="../assets/links/mstdn.jpg" alt="">
-            <div class="card-content">
-              <h1 class="card-title jp">Mastodon</h1>
-              <p class="card-text">めるのMastodonアカウントです.</p>
-              <br>
-              <a href="https://mstdn.maud.io/@meru" class="card-link">Go to link</a>
-            </div>
-          </li>
-
-          <li class="card">
-            <img class="card-img" src="../assets/links/forrio.jpg" alt="">
-            <div class="card-content">
-              <h1 class="card-title jp">forrio</h1>
-              <p class="card-text">めるのforrioのサイトです.</p>
-              <br>
-              <a href="https://www.foriio.com/meru-golang" class="card-link">Go to link</a>
-            </div>
-          </li>
-
-          <li class="card">
-            <img class="card-img" src="../assets/links/linktree.jpg" alt="">
-            <div class="card-content">
-              <h1 class="card-title jp">Linktree</h1>
-              <p class="card-text">めるのLinktreeです.</p>
-              <br>
-              <a href="https://linktr.ee/meru_golang" class="card-link">Go to link</a>
-            </div>
-          </li>
-          <li class="card">
-            <img class="card-img" src="../assets/links/Youtube-for-Vue.jpg" alt="">
-            <div class="card-content">
-              <h1 class="card-title jp">Youtube-for-Vue.js</h1>
-              <p class="card-text">Vue.jsで書いたYoutubeのクローンサイトです.</p>
-              <br>
-              <a href="https://meru.work" class="card-link">Go to link</a>
-            </div>
-          </li>
-
         </ul>
     </div>
 </template>
