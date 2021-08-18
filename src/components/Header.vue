@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="header-inner">
-      <h1 class="title" @click="clickSmoothScroll('#app')">めるのほーむぺーじ！</h1>
+      <h1 class="title" @click="clickSmoothScroll('#app')">meru-hoooooooooome</h1>
       <Nav class="nav"></Nav>
     </div>
   </div>

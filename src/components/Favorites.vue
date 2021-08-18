@@ -5,7 +5,7 @@
             <div class="like">
               <div class="likes">
                 <p class="text"><vue-typer
-  :text='["Anime","Programming","Twitter","Mastodon","Github","BitCoin","Money","Vtuber","Tiktok","Youtube","Discord","Telegram","Golang","Vue.js","React","Flutter","JavaScript","TypeScript","C","C++","C#","Unity","VSCode","Vim","ArchLinux","VALORANT","Apex Legends","osu!","BeatSaber","Amazon","conoha","O.N.G.E.K.I","Sound Voltex","TIE_Ru","Kairiki bear","Wraith","Octane","Revenant","Crypto","Tor","VRChat"]'
+  :text='["anime","vrchat","udonsharp","R18","anime-girl"]'
   :repeat='Infinity'
   :shuffle='true'
   initial-action='typing'

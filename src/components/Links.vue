@@ -6,19 +6,19 @@
             <img class="card-img" src="../assets/links/twitter.jpg" alt="">
             <div class="card-content">
               <h1 class="card-title jp">Twitter</h1>
-              <p class="card-text">めるのTwitterアカウントです.</p>
+              <p class="card-text">TwitterAccount</p>
               <br>
               <a href="https://twitter.com/meru_golang" class="card-link">Go to link</a>
             </div>
           </li>
 
           <li class="card">
-            <img class="card-img" src="../assets/links/instagram.jpg" alt="">
+            <img class="card-img" src="../assets/links/vrchat.jpg" alt="">
             <div class="card-content">
-              <h1 class="card-title jp">Instagram</h1>
-              <p class="card-text">めるのInstagramアカウントです.</p>
+              <h1 class="card-title jp"></h1>
+              <p class="card-text">VRChatAccount</p>
               <br>
-              <a href="https://instagram.com/meru_golang/" class="card-link">Go to link</a>
+              <a href="https://vrchat.com/home/user/usr_4da620e2-0bb1-41ce-ba2a-65a01f78978d" class="card-link">Go to link</a>
             </div>
           </li>
         </ul>

@@ -5,12 +5,12 @@
             <h2><font-awesome-icon icon="file-code" class="icon"/> languages</h2>
             <div class="items">
                 <div class="item">
-                    <img src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt="logo" class="item-image">
-                    <h3>Golang</h3>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="logo" class="item-image">
+                    <h3>Python</h3>
                 </div>
                 <div class="item">
-                    <img src="../assets/lang/ruby-lang-icon.svg" alt="logo" class="item-image">
-                    <h3>Ruby</h3>
+                    <img src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt="logo" class="item-image">
+                    <h3>Golang</h3>
                 </div>
                 <div class="item">
                     <img src="../assets/lang/unity3d-icon.svg" alt="logo" class="item-image">
@@ -19,6 +19,10 @@
                 <div class="item">
                     <img src="../assets/lang/dart.svg" alt="logo" class="item-image">
                     <h3>Dart</h3>
+                </div>
+                <div class="item">
+                    <img src="../assets/lang/csharp.svg" alt="logo" class="item-image">
+                    <h3>C#</h3>
                 </div>
                 <div class="item">
                     <img src="../assets/lang/C++.svg" alt="logo" class="item-image">
@@ -33,7 +37,6 @@
                     <h3>TypeScript</h3>
                 </div>
             </div>
-            
 
             <h2><font-awesome-icon icon="archive" class="icon"/> frameworks</h2>
             <div class="items">
@@ -69,6 +72,10 @@
                     <img src="../assets/lang/docker-official.svg" alt="logo" class="item-image">
                     <h3>Docker</h3>
                 </div>
+                <div class="item">
+                    <img src="../assets/lang/udonsharp.png"  alt="logo" class="udon-image">
+                    <h3>UdonSharp</h3>
+                </div>
             </div>
         </div>
     </div>
@@ -98,6 +105,9 @@
     width: 50px;
 }
 
+.udon-image{
+    height: 50px;
+}
 
 
 

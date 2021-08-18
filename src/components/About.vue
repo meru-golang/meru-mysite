@@ -10,7 +10,7 @@
 
               <div class="me">
                 <h2><font-awesome-icon icon="birthday-cake" class="icon"/> Birthday</h2>
-                <p class="text">3月3日</p>
+                <p class="text">3/3</p>
               </div>
 
               <div class="me">
@@ -21,7 +21,7 @@
             </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
-            最近VRChatを始めました！
+            VRChatが楽しい
             </p>
         </div>
     </div>
