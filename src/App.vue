@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Header id="header"></Header>
-    <div class="res"><h1 class="res-title" @click="clickSmoothScroll('#app')">meru-hoooooooooome</h1></div>
+    <div class="res"><h1 class="res-title" @click="clickSmoothScroll('#app')">meru-portfolio</h1></div>
     <div class="nav-res">
         <a href="#" class="link-content" @click="clickSmoothScroll('#app')">
           <font-awesome-icon icon="image" class="nav-icon"/>
@@ -32,7 +32,7 @@
     <div id="top">
       <div id="main">
       <vue-typer
-  :text='["hi!","love loli",""]' class="top-text"
+  :text='["hi!","im very cute loli","name meru"]' class="top-text"
   :repeat='Infinity'
   :shuffle='false'
   initial-action='typing'

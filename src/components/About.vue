@@ -21,7 +21,7 @@
             </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
-            VRChatが楽しい
+            最近眠すぎてやばい
             </p>
         </div>
     </div>

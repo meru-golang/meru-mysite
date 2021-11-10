@@ -5,28 +5,20 @@
             <h2><font-awesome-icon icon="file-code" class="icon"/> languages</h2>
             <div class="items">
                 <div class="item">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="logo" class="item-image">
-                    <h3>Python</h3>
-                </div>
-                <div class="item">
                     <img src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt="logo" class="item-image">
                     <h3>Golang</h3>
                 </div>
                 <div class="item">
-                    <img src="../assets/lang/unity3d-icon.svg" alt="logo" class="item-image">
-                    <h3>Unity</h3>
-                </div>
-                <div class="item">
-                    <img src="../assets/lang/dart.svg" alt="logo" class="item-image">
-                    <h3>Dart</h3>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="logo" class="item-image">
+                    <h3>Python</h3>
                 </div>
                 <div class="item">
                     <img src="../assets/lang/csharp.svg" alt="logo" class="item-image">
                     <h3>C#</h3>
                 </div>
                 <div class="item">
-                    <img src="../assets/lang/C++.svg" alt="logo" class="item-image">
-                    <h3>C++</h3>
+                    <img src="../assets/lang/java.svg" alt="logo" class="item-image">
+                    <h3>Java</h3>
                 </div>
                 <div class="item">
                     <img src="../assets/lang/javascript.svg" alt="logo" class="item-image">
@@ -75,6 +67,10 @@
                 <div class="item">
                     <img src="../assets/lang/udonsharp.png"  alt="logo" class="udon-image">
                     <h3>UdonSharp</h3>
+                </div>
+                <div class="item">
+                    <img src="../assets/lang/unity3d-icon.svg" alt="logo" class="item-image">
+                    <h3>Unity</h3>
                 </div>
             </div>
         </div>

@@ -6,6 +6,7 @@
                 <a href="http://twitter.com/meru_golang" class="link-icon"><font-awesome-icon :icon="['fab','twitter']" class="web-icon twitter"/></a>
                 <a href="mailto:meru@meru.work" class="link-icon"><font-awesome-icon icon="envelope" class="web-icon mail"/></a>
                 <a href="http://github.com/meru-golang" class="link-icon"><font-awesome-icon :icon="['fab','github']" class="web-icon github"/></a>
+                <a href="https://meru-golang.jp/@meru" class="link-icon"><font-awesome-icon :icon="['fab','mastodon']" class="web-icon mastodon"/></a>
             </div>
         </div>
     </div>
@@ -60,11 +61,11 @@
     background-color: #171515;
 }
 
-.hateblo{
-    color: #193278;
+.mastodon{
+    color: #193278
 }
-.hateblo:hover{
-    background-color: #193278;
+.mastodon:hover{
+    background-color: #193278
 }
 
 @media screen and (max-width: 768px){
@@ -84,7 +85,7 @@
         background-color: #171515;
     }
 
-    .hateblo{
+    .mastodon{
         background-color: #193278;
     }
 }
