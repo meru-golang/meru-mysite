@@ -22,16 +22,6 @@
             </div>
           </li>
 
-          <li class="card">
-            <img class="card-img" src="../assets/links/meru-mastodon.png" alt="">
-            <div class="card-content">
-              <h1 class="card-titel jp">Mastodon</h1>
-              <p class="card-text">My Mastodon Instance!</p>
-              <br>
-              <a href="https://meru-golang.jp/@meru" class="card-link">Go to link</a>
-            </div>
-          </li>
-
         </ul>
     </div>
 </template>
