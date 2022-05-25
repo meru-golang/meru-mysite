@@ -18,11 +18,6 @@
                 <img src="https://tryhackme-badges.s3.amazonaws.com/merugolang.png" alt="TryHackMe">
               </div>
 
-              <div class="me">
-                <h2><font-awesome-icon icon="discord" class="icon"/> Discord-Status</h2>
-                <img src="https://discord.c99.nl/widget/theme-4/830062402439479376.png" alt="Discord-Status">
-              </div>
-
             </div>
             <h2><font-awesome-icon icon="heart" class="icon resent"/> A little self introduction</h2>
             <p class="text">
