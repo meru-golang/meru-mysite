@@ -32,7 +32,7 @@
     <div id="top">
       <div id="main">
       <vue-typer
-  :text='["hi!","im very cute loli","name meru"]' class="top-text"
+  :text='["hi!","im very cute loli","play VRChat","my name meru"]' class="top-text"
   :repeat='Infinity'
   :shuffle='false'
   initial-action='typing'
@@ -113,6 +113,7 @@ export default {
   background-image: url(./assets/back-img/meru-back.png);
   background-size: cover;
   height: 100vh;
+  margin:0 auto;
 }
 
 #main{
