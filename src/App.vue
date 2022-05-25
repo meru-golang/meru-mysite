@@ -110,7 +110,7 @@ export default {
 
 #top{
   position: relative;
-  background-image: url(./assets/back-img/back-img-blur.jpg);
+  background-image: url(./assets/back-img/meru-back.png);
   background-size: cover;
   height: 100vh;
 }

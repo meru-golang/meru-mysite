@@ -72,6 +72,10 @@
                     <img src="../assets/lang/unity3d-icon.svg" alt="logo" class="item-image">
                     <h3>Unity</h3>
                 </div>
+                <div class="item">
+                    <img src="../assets/lang/Blender_logo_no_text.svg" alt="logo" class="item-image">
+                    <h3>Blender</h3>
+                </div>
             </div>
         </div>
     </div>

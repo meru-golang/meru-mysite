@@ -11,14 +11,14 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 
 import { faHandshake,faCode,faUserCircle,faLink,faPen,faSchool,faHeart,
   faSearch,faEnvelope,
-  faBirthdayCake,faImage,faArchive,faToolbox,faFileCode } from '@fortawesome/free-solid-svg-icons'
+  faBirthdayCake,faImage,faArchive,faToolbox,faFileCode,faDiscord } from '@fortawesome/free-solid-svg-icons'
 
 import { faTwitter,faGithub,faJsSquare,faMastodon } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 library.add(faHandshake,faCode,faUserCircle,faLink,faPen,
   faSchool,faHeart,faSearch,faTwitter,faGithub,faMastodon,faEnvelope,
-  faBirthdayCake,faJsSquare,faImage,faToolbox,faArchive,faFileCode)
+  faBirthdayCake,faJsSquare,faImage,faToolbox,faArchive,faFileCode,faDiscord)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 

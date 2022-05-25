@@ -3,20 +3,20 @@
         <h1 class="content-title"><font-awesome-icon icon="link" class="icon"/> Links</h1>
         <ul class="links">
           <li class="card">
-            <img class="card-img" src="../assets/links/meru-twitter.png" alt="">
+            <img class="card-img" src="../assets/back-img/twitter-profile.png" alt="">
             <div class="card-content">
               <h1 class="card-title jp">Twitter</h1>
-              <p class="card-text">TwitterAccount</p>
+              <p class="card-text">My Twitter Account</p>
               <br>
               <a href="https://twitter.com/meru_golang" class="card-link">Go to link</a>
             </div>
           </li>
 
           <li class="card">
-            <img class="card-img" src="../assets/links/meru-vrc.png" alt="">
+            <img class="card-img" src="../assets/back-img/meru-img.png" alt="">
             <div class="card-content">
               <h1 class="card-title jp">VRChat</h1>
-              <p class="card-text">VRChatAccount</p>
+              <p class="card-text">VRChat Account</p>
               <br>
               <a href="https://vrchat.com/home/user/usr_4da620e2-0bb1-41ce-ba2a-65a01f78978d" class="card-link">Go to link</a>
             </div>

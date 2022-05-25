@@ -4,9 +4,7 @@
         <div class="sam">
             <div class="link">
                 <a href="http://twitter.com/meru_golang" class="link-icon"><font-awesome-icon :icon="['fab','twitter']" class="web-icon twitter"/></a>
-                <a href="mailto:meru@meru.work" class="link-icon"><font-awesome-icon icon="envelope" class="web-icon mail"/></a>
                 <a href="http://github.com/meru-golang" class="link-icon"><font-awesome-icon :icon="['fab','github']" class="web-icon github"/></a>
-                <a href="https://meru-golang.jp/@meru" class="link-icon"><font-awesome-icon :icon="['fab','mastodon']" class="web-icon mastodon"/></a>
             </div>
         </div>
     </div>
@@ -46,26 +44,11 @@
     background-color: #1DA1F2;
 }
 
-
-.mail{
-    color: #DD5144;
-}
-.mail:hover{
-    background-color: #DD5144;
-}
-
 .github{
     color: #171515;
 }
 .github:hover{
     background-color: #171515;
-}
-
-.mastodon{
-    color: #193278
-}
-.mastodon:hover{
-    background-color: #193278
 }
 
 @media screen and (max-width: 768px){
